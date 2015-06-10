@@ -2,6 +2,7 @@
 .project
 project.properties
 proguard.cfg
+.settings
 
 # Built application files
 *.apk
